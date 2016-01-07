@@ -1,0 +1,155 @@
+C:\Courses\WEBAPI\BookService\BookService\bin\ApplicationInsights.config
+C:\Courses\WEBAPI\BookService\BookService\bin\BookService.dll.config
+C:\Courses\WEBAPI\BookService\BookService\bin\BookService.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\BookService.pdb
+C:\Courses\WEBAPI\BookService\BookService\bin\Antlr3.Runtime.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\EntityFramework.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\EntityFramework.SqlServer.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.AI.Web.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.AI.WindowsServer.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.ApplicationInsights.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Owin.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.Google.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Web.Infrastructure.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Newtonsoft.Json.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Owin.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Net.Http.Formatting.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.Helpers.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.Http.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.Http.Owin.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.Http.WebHost.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.Mvc.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.Optimization.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.Razor.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.WebPages.Deployment.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.WebPages.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.WebPages.Razor.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\WebGrease.dll
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.AI.Web.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.AI.WindowsServer.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.ApplicationInsights.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\Newtonsoft.Json.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Net.Http.Formatting.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.Helpers.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.Http.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.Http.WebHost.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.Mvc.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.Optimization.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.Razor.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.WebPages.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.WebPages.Deployment.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.WebPages.Razor.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\Antlr3.Runtime.pdb
+C:\Courses\WEBAPI\BookService\BookService\bin\EntityFramework.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\EntityFramework.SqlServer.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Owin.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.Google.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Courses\WEBAPI\BookService\BookService\bin\System.Web.Http.Owin.xml
+C:\Courses\WEBAPI\BookService\BookService\obj\Debug\BookService.dll
+C:\Courses\WEBAPI\BookService\BookService\obj\Debug\BookService.pdb
+C:\Courses\WEBAPI\BookService\BookService\obj\Debug\BookService.Migrations.Initial.resources
+C:\Courses\WEBAPI\BookService\BookService\obj\Debug\BookService.csproj.GenerateResource.Cache
+C:\App Tests\WEBAPI\BookService\BookService\bin\ApplicationInsights.config
+C:\App Tests\WEBAPI\BookService\BookService\bin\BookService.dll.config
+C:\App Tests\WEBAPI\BookService\BookService\bin\BookService.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\BookService.pdb
+C:\App Tests\WEBAPI\BookService\BookService\bin\Antlr3.Runtime.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\EntityFramework.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\EntityFramework.SqlServer.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.AI.DependencyCollector.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.AI.Web.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.AI.WindowsServer.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.ApplicationInsights.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Owin.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.Google.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Web.Infrastructure.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Newtonsoft.Json.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Owin.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Net.Http.Formatting.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.Helpers.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.Http.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.Http.Owin.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.Http.WebHost.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.Mvc.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.Optimization.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.Razor.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.WebPages.Deployment.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.WebPages.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.WebPages.Razor.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\WebGrease.dll
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.AI.DependencyCollector.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.AI.Web.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.AI.WindowsServer.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.ApplicationInsights.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\Newtonsoft.Json.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Net.Http.Formatting.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.Helpers.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.Http.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.Http.WebHost.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.Mvc.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.Optimization.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.Razor.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.WebPages.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.WebPages.Deployment.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.WebPages.Razor.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\Antlr3.Runtime.pdb
+C:\App Tests\WEBAPI\BookService\BookService\bin\EntityFramework.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\EntityFramework.SqlServer.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Owin.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.Google.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\App Tests\WEBAPI\BookService\BookService\bin\System.Web.Http.Owin.xml
+C:\App Tests\WEBAPI\BookService\BookService\obj\Debug\BookService.csprojResolveAssemblyReference.cache
+C:\App Tests\WEBAPI\BookService\BookService\obj\Debug\BookService.Migrations.Initial.resources
+C:\App Tests\WEBAPI\BookService\BookService\obj\Debug\BookService.csproj.GenerateResource.Cache
+C:\App Tests\WEBAPI\BookService\BookService\obj\Debug\BookService.dll
+C:\App Tests\WEBAPI\BookService\BookService\obj\Debug\BookService.pdb
