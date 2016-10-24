@@ -7,8 +7,13 @@ A small ASP.NET Web Api project that implements KnockoutJS for data binding and 
 Developed using Visual Studio 2015 Community.
 
 ---
+### Brief Description
 
-####Resources
+This is a simple app that displays authors and related books. It allows you to perform CRUD operations against an MSSQL db.
+
+---
+
+###Resources
 |Title|Author|Publisher|
 |-----|------|---------|
 |[KonckoutJS for Beginners](http://www.codeproject.com/Articles/680553/Knockout-js-for-Beginners)|S. M. Ahasan Habib|Code Project|
