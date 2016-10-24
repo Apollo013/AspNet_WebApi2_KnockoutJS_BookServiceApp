@@ -1,6 +1,6 @@
 # AspNet_WebApi2_KnockoutJS_BookServiceApp
 
-A small ASP.NET Web Api project that implements KnockoutJS for data binding and handling HTTP requests.
+A small project that implements KnockoutJS for data binding and performing HTTP requests against a Web Api 2 server for CRUD operations.
 
 ---
 
